@@ -117,7 +117,7 @@ Press **Enter** to skip any field.
 
 ### Example Interaction
 
-[image](script_usage.png)
+![image](script_usage.png)
 
 This script simplifies applying common UFW rules without needing to remember each command.
 
