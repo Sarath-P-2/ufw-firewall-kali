@@ -71,7 +71,7 @@ It asks for 4 inputs:
 3. IPs to BLOCK (e.g., 192.168.1.100)
 4. IPs to ALLOW (e.g., 192.168.1.101)
 
-### ▶️ How to Use
+###  How to Use
 ```bash
 chmod +x setup-firewall.sh
 ./setup-firewall.sh
@@ -87,7 +87,7 @@ The `setup-firewall.sh` script helps configure firewall rules using UFW interact
 
 ###  Prerequisites
 - Debian-based Linux OS (Kali, Ubuntu, etc.)
-- `ufw` installed (the script will install it if not found)
+- `ufw` installed 
 - `sudo` privileges
 
 ###  Usage Steps
@@ -115,7 +115,7 @@ chmod +x setup-firewall.sh
 
 Press **Enter** to skip any field.
 
-### 🧪 Example Interaction
+### Example Interaction
 
 [image](script-usage.png)
 
