@@ -81,7 +81,7 @@ Press **Enter** to skip any input. The script will apply your firewall rules and
 
 ---
 
-##  How to Use This Script (For Others)
+##  How to Use This Script 
 
 The `setup-firewall.sh` script helps configure firewall rules using UFW interactively. It's ideal for quick setup or learning.
 
@@ -92,7 +92,7 @@ The `setup-firewall.sh` script helps configure firewall rules using UFW interact
 
 ###  Usage Steps
 
-1. **Copy the script** to your Linux machine and save it as:
+1. **Copy the [script](setup-firewall.sh)** to your Linux machine and save it as:
 ```
 setup-firewall.sh
 ```
